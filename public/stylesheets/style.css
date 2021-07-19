@@ -1,0 +1,21 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+#sub_link{
+    border:unset;
+    margin:unset;
+    padding:unset;
+    color:#337ab7;
+    background:inherit;
+    text-align:left;
+    width:fit-content;
+    height:fit-content;
+}
+
+#sub_link:hover{
+    color:#23527c;
+    text-decoration:underline
+}
